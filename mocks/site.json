@@ -1,0 +1,38 @@
+{
+  "stats": [
+    { "label": "Projects shipped", "value": "18+" },
+    { "label": "Years building", "value": "4" },
+    { "label": "Client satisfaction", "value": "100%" }
+  ],
+  "projects": [
+    {
+      "title": "LuxeCart",
+      "category": "E-commerce",
+      "description": "Built a premium storefront experience with conversion-led flows, product storytelling, and a smooth shopping journey.",
+      "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80",
+      "tags": ["Next.js", "Stripe", "Design"]
+    },
+    {
+      "title": "PulseBoard",
+      "category": "Dashboard",
+      "description": "Designed and developed an analytics dashboard that turns raw data into crisp actions for business teams.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=900&q=80",
+      "tags": ["React", "Charts", "UX"]
+    },
+    {
+      "title": "Northstar Studio",
+      "category": "Brand Site",
+      "description": "Created a modern portfolio and brand landing page to elevate a creative studio’s online presence and reach.",
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=80",
+      "tags": ["Landing Page", "Motion", "Branding"]
+    }
+  ],
+  "skills": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "UI/UX Design",
+    "Responsive Design",
+    "Performance Optimization"
+  ]
+}
