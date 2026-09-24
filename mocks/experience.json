@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Senior Application Developer",
+    "company": "Product Development Studio",
+    "period": "2022 — Present",
+    "details": [
+      "Designed and delivered responsive web applications focused on usability, speed, and conversion-driven user journeys.",
+      "Collaborated closely with stakeholders to translate business requirements into scalable frontend and backend architecture.",
+      "Improved performance, accessibility, and maintainability across several client projects using modern React and Next.js patterns."
+    ]
+  },
+  {
+    "role": "Front-End Developer",
+    "company": "Digital Agency",
+    "period": "2020 — 2022",
+    "details": [
+      "Built polished landing pages and dashboards for startups and small businesses, resulting in smoother customer experiences.",
+      "Developed reusable UI components and streamlined design-to-code workflows for faster delivery across multiple projects.",
+      "Integrated APIs, optimized experiences for mobile devices, and ensured consistent cross-browser functionality."
+    ]
+  }
+]

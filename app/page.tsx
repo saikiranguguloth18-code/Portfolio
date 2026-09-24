@@ -1,5 +1,7 @@
 import Image from "next/image";
+import Link from "next/link";
 import ScrollSections from "./ScrollSections";
+import navigationData from "../mocks/navigation.json";
 import siteData from "../mocks/site.json";
 
 type Stat = {
@@ -15,12 +17,18 @@ type Project = {
   tags: string[];
 };
 
+type NavItem = {
+  label: string;
+  href: string;
+};
+
 type SiteData = {
   stats: Stat[];
   projects: Project[];
   skills: string[];
 };
 
+const navigation: NavItem[] = navigationData as NavItem[];
 const { stats, projects, skills } = siteData as SiteData;
 
 export default function Home() {
@@ -32,10 +40,11 @@ export default function Home() {
             SK
           </a>
           <div className="hidden items-center gap-8 text-sm text-slate-300 md:flex">
-            <a href="#home" className="transition hover:text-white">Home</a>
-            <a href="#projects" className="transition hover:text-white">Projects</a>
-            <a href="#skills" className="transition hover:text-white">Skills</a>
-            <a href="#contact" className="transition hover:text-white">Contact</a>
+            {navigation.map((item) => (
+              <Link key={item.label} href={item.href} className="transition hover:text-white">
+                {item.label}
+              </Link>
+            ))}
           </div>
           <a
             href="#contact"
