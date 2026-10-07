@@ -6,18 +6,18 @@
   ],
   "projects": [
     {
-      "title": "LuxeCart",
-      "category": "E-commerce",
-      "description": "Built a premium storefront experience with conversion-led flows, product storytelling, and a smooth shopping journey.",
-      "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80",
-      "tags": ["Next.js", "Stripe", "Design"]
+      "title": "ReadyRefresh",
+      "category": "Service Platform",
+      "description": "Built a customer-first home services experience for ReadyRefresh, improving scheduling flow, service transparency, and digital engagement.",
+      "image": "/readyrefresh.jpg",
+      "tags": ["Next.js", "UX", "Conversion"]
     },
     {
-      "title": "PulseBoard",
-      "category": "Dashboard",
-      "description": "Designed and developed an analytics dashboard that turns raw data into crisp actions for business teams.",
-      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=900&q=80",
-      "tags": ["React", "Charts", "UX"]
+      "title": "U. S. Bank",
+      "category": "Banking Dashboard",
+      "description": "Designed and developed a reporting dashboard for U.S. Bank, turning operational metrics into clear, actionable insights for business teams.",
+      "image": "/usbank.jpg",
+      "tags": ["React", "Analytics", "FinTech"]
     },
     {
       "title": "Northstar Studio",

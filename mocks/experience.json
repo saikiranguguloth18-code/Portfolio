@@ -1,22 +1,22 @@
 [
   {
-    "role": "Senior Application Developer",
-    "company": "Product Development Studio",
-    "period": "2022 — Present",
+    "role": "Senior Front-End Developer",
+    "company": "ReadyRefresh",
+    "period": "2022 — 2024",
     "details": [
-      "Designed and delivered responsive web applications focused on usability, speed, and conversion-driven user journeys.",
-      "Collaborated closely with stakeholders to translate business requirements into scalable frontend and backend architecture.",
-      "Improved performance, accessibility, and maintainability across several client projects using modern React and Next.js patterns."
+      "Built and improved digital experiences for ReadyRefresh to support online service scheduling, customer engagement, and streamlined account interactions.",
+      "Worked closely with product and design teams to simplify complex workflows while improving usability and conversion outcomes.",
+      "Optimized responsive front-end architecture, accessibility, and performance for a better self-service customer journey."
     ]
   },
   {
-    "role": "Front-End Developer",
-    "company": "Digital Agency",
+    "role": "Application Developer",
+    "company": "PulseBoard / U.S. Bank",
     "period": "2020 — 2022",
     "details": [
-      "Built polished landing pages and dashboards for startups and small businesses, resulting in smoother customer experiences.",
-      "Developed reusable UI components and streamlined design-to-code workflows for faster delivery across multiple projects.",
-      "Integrated APIs, optimized experiences for mobile devices, and ensured consistent cross-browser functionality."
+      "Developed dashboard experiences for U.S. Bank that translated operational data into clear, actionable reporting for business users.",
+      "Built reusable UI patterns and API-driven views that improved clarity, speed, and maintainability across financial workflows.",
+      "Focused on responsive, accessible interfaces that supported stakeholder decision-making in a highly regulated environment."
     ]
   }
 ]
